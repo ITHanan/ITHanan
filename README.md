@@ -1,6 +1,28 @@
-## Hi there 👋
+# 👋 Hello! I'm [Your Name] – Full-Stack Developer from Gothenburg, Sweden 🇸🇪
 
-# 👋 Hello! I'm Hanan – Full-Stack Developer from Gothenburg, Sweden 🇸🇪
+> Result-driven IT professional with a strong educational background and proficient programming skills. Eager to embark on a rewarding career in Sweden, combining technical expertise with a passion for problem-solving. Committed to continuous learning and staying up-to-date with industry trends. Skilled at collaborating with cross-functional teams and driven to contribute with innovative solutions. Excited to apply my knowledge to Sweden's dynamic IT landscape and foster professional growth. Looking forward to utilizing my skills in the job market.
+
+---
+
+### 📚 Expertise & Skills
+
+- **Java Developer**
+- **Database Administrator**
+- **PHP Developer**
+- **C# ASP.NET**
+- **MATLAB Programming**
+- **English and Swedish Communication Skills**
+- **Self-Learning Skills**
+- **Computer Programming**
+- **Discrete Mathematics & Linear Algebra**
+- **Data, Computing, and Information**
+- **Team Collaboration in Distributed Environments**
+- **Java, Database Management (MySQL), Software Engineering**
+- **Computer Architecture**
+- **Communication and Information Technology**
+- **Proficiency in English and Swedish**
+
+---
 
 ### 👨‍💻 About Me
 I'm a passionate Full-Stack Developer specializing in **.NET** technologies but always excited to dive into new frameworks and languages! With a wide-ranging skill set and a love for building meaningful applications, I aim to create efficient, scalable, and user-friendly software. 🌐
