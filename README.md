@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Your Name] – Full-Stack Developer from Gothenburg, Sweden 🇸🇪
+# 👋 Hello! I'm Hanan – Full-Stack Developer from Gothenburg, Sweden 🇸🇪
 
 > Result-driven IT professional with a strong educational background and proficient programming skills. Eager to embark on a rewarding career in Sweden, combining technical expertise with a passion for problem-solving. Committed to continuous learning and staying up-to-date with industry trends. Skilled at collaborating with cross-functional teams and driven to contribute with innovative solutions. Excited to apply my knowledge to Sweden's dynamic IT landscape and foster professional growth. Looking forward to utilizing my skills in the job market.
 
