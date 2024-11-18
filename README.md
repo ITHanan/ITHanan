@@ -20,7 +20,7 @@
 - **Java, Database Management (MySQL), Software Engineering**
 - **Computer Architecture**
 - **Communication and Information Technology**
-- **Proficiency in English and Swedish**
+
 
 ---
 
