@@ -52,7 +52,7 @@ Here are some of my favorite projects! Check them out and feel free to give feed
 
 - 📝 [**Project Name**](https://github.com/yourusername/project)  
   *A brief description of what it does, tech stack, etc.*
-- 📈 [**Another Project**](https://github.com/yourusername/anotherproject)  
+- 📈 [**Another Project**](https://github.com/ITHanan/Parkeringsapp)  
   *Summary of the project, why it’s interesting, tech highlights.*
 
 ---
