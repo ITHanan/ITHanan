@@ -50,7 +50,7 @@ I'm a passionate Full-Stack Developer specializing in **.NET** technologies but 
 ### 🚀 Projects
 Here are some of my favorite projects! Check them out and feel free to give feedback or contribute!
 
-- 📝 [**Project Name**](https://github.com/yourusername/project)  
+- 📝 [**Project Name**](https://github.com/ITHanan/E-commerceStore01)  
   *A brief description of what it does, tech stack, etc.*
 - 📈 [**Another Project**](https://github.com/ITHanan/Parkeringsapp)  
   *Summary of the project, why it’s interesting, tech highlights.*
