@@ -17,7 +17,7 @@
 - **Discrete Mathematics & Linear Algebra**
 - **Data, Computing, and Information**
 - **Team Collaboration in Distributed Environments**
-- **Java, Database Management (MySQL), Software Engineering**
+- **Java, Database Management (MySQL),SQL Server Software Engineering**
 - **Computer Architecture**
 - **Communication and Information Technology**
 
