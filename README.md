@@ -5,8 +5,6 @@
 
 ---
 
-### 🚀 ProjectsHere are some of my favorite projects! Check them out and feel free to give feedback or contribute! - 📝 [**E-Commerce Store app**](https://github.com/ITHanan/E-commerceStore01)    *A brief description of what it does, tech stack, etc.*- 📈 [**Parcking app**](https://github.com/ITHanan/Parkeringsapp)    *Summary of the project, why it’s interesting, tech highlights.* --- 
-
 ## 🧠 Currently
 
 - 🏢 **Backend Developer (LIA Internship)** @ VSA Innovation — building a healthcare alert management dashboard using ASP.NET Core, CQRS/MediatR, and PostgreSQL
@@ -22,7 +20,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -39,6 +37,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### AI & Modern Tooling
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -57,7 +56,7 @@
 
 **Fullstack Developer — AI Bootcamp** · InFiNet Code AB · 2026
 - Built and deployed FamilyBudget AI — ASP.NET Core 9, React, Azure App Service, Azure SQL, GitHub Actions CI/CD
-- Integrated OpenAI API for in-app AI conversation assistant
+- Integrated OpenAI API for an in-app AI conversation assistant
 
 **Fullstack Developer — Summer Hackathon** · InFiNet Code AB · 2025
 - Built a fullstack web solution in .NET and C# with focus on structured code and quality assurance
@@ -90,7 +89,7 @@ AI-powered personal finance app with subscription tracking, transaction categori
 ---
 
 ### ⚖️ [Case Management System](https://github.com/ITHanan/CaseManegmentSystemCleanArchticture)
-Full-stack case management platform for organizations to manage clients, cases, notes, and assignments.
+Full-stack case management platform for managing clients, cases, notes, and team assignments.
 - Dashboard analytics with Bar & Pie charts (Recharts), search, filtering, pagination
 - JWT authentication, Material UI dark theme
 
@@ -124,6 +123,9 @@ Console-based shopping system with authentication, cart logic, checkout, and JSO
 
 ## 🏅 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ITHanan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
