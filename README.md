@@ -7,8 +7,8 @@
 
 ## 🧠 Currently
 
-- 🏢 **Backend Developer (LIA Internship)** @ VSA Innovation — building a healthcare alert management dashboard using ASP.NET Core, CQRS/MediatR, and PostgreSQL
-- 🤖 Completed **AI Bootcamp** @ InFiNet Code AB — built FamilyBudget AI, a fullstack personal finance app with OpenAI integration, deployed to Azure
+- 🤖  **AI Bootcamp** @ InFiNet Code AB — built FamilyBudget AI, a fullstack personal finance app with OpenAI integration, deployed to Azur
+- 🏢 Completed **Backend Developer (LIA Internship)** @ VSA Innovation — building a healthcare alert management dashboard using ASP.NET Core, CQRS/MediatR, and PostgreSQL
 - 🎓 Graduated **Master Fullstack .NET Developer** — NBI/Handelsakademin, June 2026
 - 🔍 Open to **fullstack .NET developer roles** in Göteborg
 
@@ -49,14 +49,14 @@
 
 ## 💼 Work Experience
 
-**Backend Developer — LIA Internship** · VSA Innovation · 2026 – Ongoing
+**Fullstack Developer — AI Bootcamp** · InFiNet Code AB · 2026 Ongoing
+- Built and deployed FamilyBudget AI — ASP.NET Core 9, React, Azure App Service, Azure SQL, GitHub Actions CI/CD
+- Integrated OpenAI API for an in-app AI conversation assistant
+
+**Backend Developer — LIA Internship** · VSA Innovation · 2026 – 
 - Built new API endpoints for a healthcare alert dashboard using ASP.NET Core, CQRS/MediatR, and PostgreSQL
 - Implemented custom FluentValidation and a JSON converter for edge-case date handling
 - Resolved EF Core tracking bugs and extended the Alert entity without breaking existing consumers
-
-**Fullstack Developer — AI Bootcamp** · InFiNet Code AB · 2026
-- Built and deployed FamilyBudget AI — ASP.NET Core 9, React, Azure App Service, Azure SQL, GitHub Actions CI/CD
-- Integrated OpenAI API for an in-app AI conversation assistant
 
 **Fullstack Developer — Summer Hackathon** · InFiNet Code AB · 2025
 - Built a fullstack web solution in .NET and C# with focus on structured code and quality assurance
