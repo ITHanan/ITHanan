@@ -72,7 +72,7 @@
 Fullstack platform connecting vehicle owners with tire workshops — booking, storage, and inspection management.
 - Role-based access control (4 roles), branch-scoped data isolation, audit logging
 - CI/CD → Azure App Service + Azure Static Web Apps via GitHub Actions
-- 111+ unit tests
+- unit tests
 
 `ASP.NET Core` `CQRS` `MediatR` `EF Core` `React` `Azure` `GitHub Actions`
 
