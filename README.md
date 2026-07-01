@@ -105,6 +105,8 @@ Console-based shopping system with authentication, cart logic, checkout, and JSO
 
 ---
 
+### 📚 Expertise & Skills - **Java Developer**- **Database Administrator**- **PHP Developer**- **C# ASP.NET**- **MATLAB Programming**- **English and Swedish Communication Skills**- **Self-Learning Skills**- **Computer Programming**- **Discrete Mathematics & Linear Algebra**- **Data, Computing, and Information**- **Team Collaboration in Distributed Environments**- **Java, Database Management (MySQL),SQL Server Software Engineering**- **Computer Architecture**- **Communication and Information Technology**
+
 ## 🏆 GitHub Achievements
 
 | Badge | Achievement |
